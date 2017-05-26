@@ -205,7 +205,7 @@ Speed of processing is also an issue. It takes an average home desktop about 30 
 
 #### 8.2 Related files
 1. [utils.py](./utils.py) - Python file with functions used for vehicle detection
-2. [utilsP4.py](./utils.py) - Python file with functions used for lane finding
+2. [utilsP4.py](./utilsP4.py) - Python file with functions used for lane finding
 3. [P5Pipeline.py](./P5Pipeline.py) - Python file used to process video stream
 4. [Vehicle Detection video](./output_videos/project_video_out_with_lane.mp4)
 5. [Vehicle Detection video with diagnostics](./output_videos/project_video_out_with_lane_diag.mp4)
